@@ -1,0 +1,116 @@
+body {
+	background-color: #FFFFFF;
+	margin: 0px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+
+
+}
+.main {
+	text-decoration: none;
+	padding: 20px;
+	background-color: #F7F7F7;
+	border-top: 1px solid #e4e0ea;
+	border-left: 1px solid #e4e0ea;
+}
+.container {
+	border-right: 1px solid #e4e0ea;
+	border-left: 1px solid #e4e0ea;
+}
+td {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: normal;
+	color: #000000;
+	text-decoration: none;
+}
+a:link {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: normal;
+	color: #959927;
+	text-decoration: underline;
+	}
+a:visited {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: normal;
+	color: #959927;
+	text-decoration: underline;
+	}
+a:hover {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: normal;
+	color: #959927;
+	text-decoration: none;
+	}
+.nav {
+	color: #C7CBE7;
+	font-weight: normal;
+
+
+} 
+.nav a:link {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #c5d2e4;
+	text-decoration: none;
+	}
+.nav a:visited {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #c5d2e4;
+	text-decoration: none;
+	}
+.nav a:hover {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #FFFFFF;
+	text-decoration: underline;
+	}
+.left {
+	padding-right: 20px;
+	padding-bottom: 20px;
+	padding-left: 20px;
+}
+.heading {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-weight: bold;
+	color: 002e70;
+	text-indent: 5pt;
+
+}
+.box {
+	border: 1px solid #CCCCCC;
+	background-color: #FFFFFF;
+	padding: 5px;
+}
+p {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	text-decoration: none;
+	text-indent: 5pt;
+	margin: 5px;
+	padding: 5px;
+	height: auto;
+	width: auto;
+}
+.border {
+	border-right-width: thin;
+	border-right-style: dashed;
+	border-right-color: #FFFF66;
+}
+.txtnormal {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #000000;
+}
+li {
+	font: 12px Verdana, Arial, Helvetica, sans-serif;
+}
